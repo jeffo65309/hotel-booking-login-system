@@ -53,3 +53,12 @@ Users are securely prompted to log in before accessing or modifying bookings.
 ```bash
 javac src/**/*.java
 
+---
+
+## 📌 Author
+
+**Jefferey Slaven**  
+1st Year BSc Cyber Security Student  
+GitHub: [@jeffo65309](https://github.com/jeffo65309)
+
+
